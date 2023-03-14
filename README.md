@@ -6,3 +6,5 @@ Simple puzzle game made for the GAME 140 class at George Mason University. Part 
 Recap of the story:
 
 Artwork was made personally made except for the background, which is a .bmp ripped from google images.
+
+Extra thanks goes to Professor Burch, who was the amazing professor of the course.
